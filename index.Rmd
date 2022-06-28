@@ -7,4 +7,4 @@ site: bookdown::bookdown_site
 
 # Constitución del Proyecto
 
- 
+El acta de constitución del proyecto (project chapter) es el instrumento utilizado en la gestión del proyecto para evidenciar desde el alcance del proyecto como los involucrados (stakeholders) y las funciones de cada uno dentro del ciclo de vida del proyecto.
