@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Gestión de Proyectos en la Ingeniería Civil"
+author: "Neila González Tejada"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
