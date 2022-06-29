@@ -1,0 +1,19 @@
+# Constitución del Proyecto
+
+## Introducción
+
+El *acta de constitución del proyecto* (project chapter) es el instrumento utilizado en la gestión del proyecto. Este documento se elabora al inicio de la implementación de un proyecto y en el se evidencia desde el alcance del proyecto, la duración, costos, los interesados (stakeholders) con sus funciones y responsabilidades de dentro del ciclo de vida del proyecto. Así mismo, es importante que en este documento se defina la estructura de gobernabilidad y el equipo que será responsable del proyecto.
+
+## Objetivos de aprendizaje
+
++ Identificar el registro de los interesados vinculados al proyecto.
+
++ Definir el plan de involucramiento.
+
++ Definir las reglas y requisitos del proyecto.
+
++ Reconocer los intereses de los involucrados.
+
++ Definir una matriz de trazabilidad de los requisitos.
+
+

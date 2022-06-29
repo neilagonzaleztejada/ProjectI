@@ -5,6 +5,14 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Constitución del Proyecto
+# Importancia de La Gestión de Proyectos de Ingeniería Civil
 
-El acta de constitución del proyecto (project chapter) es el instrumento utilizado en la gestión del proyecto para evidenciar desde el alcance del proyecto como los involucrados (stakeholders) y las funciones de cada uno dentro del ciclo de vida del proyecto.
+## Introducción
+
+## Objetivos de aprendizaje
+
++ Definir el éxito de un proyecto.
+
++ Diferenciar los criterios de éxito y factores de éxito de un proyecto.
+
++ Identificar las estrategias en la gestión de proyectos.
