@@ -9,10 +9,21 @@ site: bookdown::bookdown_site
 
 ## Introducción
 
+La gestión de proyectos en la ingeniería civil es fundamental teniendo en cuenta que para materializar las soluciones de problemas en las distintas dimensiones establecidas dentro del desarrollo de un territorio como son en lo social, la vivienda, salud, economía y educación. En cada una de estas dimensiones se requieren obras como edificaciones, puentes, vías, transporte, obras de protección de ríos y costas, hidroeléctricas, etc. Para cada obra es necesario definir así como las responsabilidades de cada involucrado, como las distintas etapas de prediseño, diseño, planeación,construcción y cierre. Que en su conjunto se pueden visibilizar de forma clara, con una buena gestión del proyecto, en la que también se tiene en cuenta la asignación de los recursos y el involucramiento del equipo del proyecto con la alta gerencia bajo una estructura de gobernabilidad definida que permita lograr entregar valor y los beneficios del proyecto.
+
 ## Objetivos de aprendizaje
 
 + Definir el éxito de un proyecto.
 
-+ Diferenciar los criterios de éxito y factores de éxito de un proyecto.
++ Definir el flujo de proceso de la gerencia de proyectos.
+
++ Diferenciar los criterios y factores de éxito de un proyecto.
 
 + Identificar las estrategias en la gestión de proyectos.
+
+
+## Definición de proyecto
+
+Se pueden encontrar múltiples definiciones de lo qué es un proyecto. En este apartado se presentan algunas de las más conocidas y que considero pueden ser de fácil comprensión. 
+Según Turner (1999), un proyecto es un esfuerzo en el que se organizan los recursos humanos, financieros y materiales de una manera novedosa para emprender un ámbito de trabajo único, de especificación dada, dentro
+limitaciones de costo y tiempo, a fin de lograr un cambio beneficioso definido por y objetivos cualitativos. Por otra parte, el Instituto de Gerencia de Proyectos (Project Management Institute - PMI) define este como un proyecto es una actividad grupal y temporal diseñada para producir un producto, servicio o resultado único. (Bibliografía TuDelft Hans Bakker - NOTA: COLOCAR EN ZOTERO)
