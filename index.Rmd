@@ -1,29 +1,43 @@
---- 
+---
 title: "Gestión de Proyectos en la Ingeniería Civil"
 author: "Neila González Tejada"
 date: "`r Sys.Date()`"
+output: html_document
 site: bookdown::bookdown_site
+bibliography: ProjectI.bib
+csl: apa.csl
 ---
 
 # Importancia de La Gestión de Proyectos de Ingeniería Civil
 
 ## Introducción
 
-La gestión de proyectos en la ingeniería civil es fundamental teniendo en cuenta que para materializar las soluciones de problemas en las distintas dimensiones establecidas dentro del desarrollo de un territorio como son en lo social, la vivienda, salud, economía y educación. En cada una de estas dimensiones se requieren obras como edificaciones, puentes, vías, transporte, obras de protección de ríos y costas, hidroeléctricas, etc. Para cada obra es necesario definir así como las responsabilidades de cada involucrado, como las distintas etapas de prediseño, diseño, planeación,construcción y cierre. En su conjunt, se pueden visibilizar de forma clara, con una buena gestión del proyecto, en la que también se tiene en cuenta la asignación de los recursos y el involucramiento del equipo del proyecto con la alta gerencia bajo una estructura de gobernabilidad definida que permita lograr entregar valor y los beneficios del proyecto.
+La gestión de proyectos en la ingeniería civil es fundamental para materializar las soluciones de problemas en las distintas dimensiones, social, económica, política y ambiental dentro del desarrollo de un territorio. En las que se requieren obras como edificaciones, puentes, vías, transporte, obras de protección de ríos y costas, hidroeléctricas, gestión del agua, etc. Para cada proyecto de ingeniería es necesario definir, desde las responsabilidades de cada involucrado, así como también las distintas etapas de prediseño, diseño, planeación, construcción y cierre. Las cuales se pueden visibilizar de forma clara, con una adecuada gestión del proyecto, en la que también se tiene en cuenta la asignación de los recursos y el involucramiento del equipo del proyecto con la alta gerencia bajo una estructura de gobernabilidad definida que permita lograr entregar valor y los beneficios del proyecto.
 
 ## Objetivos de aprendizaje
 
-+ Definir el éxito de un proyecto.
+-   Definir un proyecto.
 
-+ Definir el flujo de proceso de la gerencia de proyectos.
+-   Definir el flujo de proceso de la gerencia de proyectos.
 
-+ Diferenciar los criterios y factores de éxito de un proyecto.
+-   Diferenciar los criterios y factores de éxito de un proyecto.
 
-+ Identificar las estrategias en la gestión de proyectos.
-
+-   Identificar las estrategias en la gestión de proyectos.
 
 ## Definición de proyecto
 
-Se pueden encontrar múltiples definiciones de lo qué es un proyecto. En este apartado se presentan algunas de las más conocidas y que considero pueden ser de fácil comprensión. 
-Según Turner (1999), un proyecto es un esfuerzo en el que se organizan los recursos humanos, financieros y materiales de una manera novedosa para emprender un ámbito de trabajo único, de especificación dada, dentro
-limitaciones de costo y tiempo, a fin de lograr un cambio beneficioso definido por y objetivos cualitativos. Por otra parte, el Instituto de Gerencia de Proyectos (Project Management Institute - PMI) define este como un proyecto es una actividad grupal y temporal diseñada para producir un producto, servicio o resultado único. (Bibliografía TuDelft Hans Bakker - NOTA: COLOCAR EN ZOTERO)
+En la literatura existente se pueden encontrar múltiples definiciones de lo qué es un proyecto. En este apartado se presentan algunas de las más conocidas y que considero pueden ser de fácil comprensión.
+
+Según [@turnerrodneyHandbookProjectBased2008], *un proyecto es un esfuerzo en el que se organizan los recursos humanos, financieros y de materiales de una manera novedosa para emprender un ámbito de trabajo único, según especificaciones dadas, dentro de limitaciones de costo y tiempo, a fin de lograr un cambio beneficioso definido por objetivos cualitativos y cuantitativos*.
+
+Por otra parte, [@bakkerhansManagementEngineeringProjects] presenta la definición dada por el Instituto de Gerencia de Proyectos (Project Management Institute - PMI) el cual define un proyecto como *un esfuerzo temporal que se realiza para crear un producto, servicio o resultado único*.
+
+El organismo profesional más grande para gerentes de proyectos del Reino Unido, la Asociación para la Gestión de Proyectos (Association for Project Management- APM), tiene la siguiente definición. *Los proyectos son esfuerzos únicos y transitorios emprendidos para lograr un resultado deseado*.
+
+Proyectos en Entornos Controlados (término más comúnmente conocido como PRINCE2), define un proyecto como *una organización temporal que ha sido creada con el propósito de entregar uno o más productos comerciales de acuerdo con un caso comercial predefinido*.
+
+Para este libro se tendrán en cuenta las definiciones de [@turnerrodneyHandbookProjectBased2008] y del PMI. Siendo estas una de las más utilizadas en América y que dan mayor claridad sobre el tema.
+
+Teniendo en cuenta las definiciones anteriores se puede decir que las actividades y el esfuerzo de construir una vivienda, comprar un vehículo, realizar una tesis de posgrado, escribir un libro, construir un celular, desarrollar un software, entre otras se consideran un proyecto. Para que la gestión de los mismos facilite la entrega de los mismos en un tiempo y costo especifico se utilizan diferentes metodologías, las cuales se abordarán en este libro, el cual se enfocará más que todo en proyectos de ingeniería civil.
+
+Para una mayor comprensión de los temas abordados, se recomienda tener en cuenta todos los términos asociados a la gestión de proyectos, incluyendo las abreviaturas y considerar que muchos términos tienen su origen en inglés.

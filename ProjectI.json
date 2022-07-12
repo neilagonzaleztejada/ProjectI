@@ -1,0 +1,25 @@
+[
+    {
+        "ISBN": "978-0-07-154974-5",
+        "author": [
+            {
+                "family": "Turner, Rodney"
+            }
+        ],
+        "edition": "3rd",
+        "id": "turnerrodneyHandbookProjectBased2008",
+        "issued": {
+            "date-parts": [
+                [
+                    2008
+                ]
+            ]
+        },
+        "key": "QIYY3UCL",
+        "libraryid": "1",
+        "providerkey": "2509FBBE-5BB0-44C4-B119-6083A81ED673",
+        "publisher": "McGraw Hill Professional",
+        "title": "Handbook of Project Based Management Leading Strategic Change in Organizations",
+        "type": "book"
+    }
+]
