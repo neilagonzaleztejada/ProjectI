@@ -8,3 +8,5 @@ objetivos-de-aprendizaje-1
 definición-del-alcance-de-un-proyecto
 identificar-un-problema
 alto-nivel-del-proyecto-y-requisitos-de-aprobación
+definir-el-flujo-de-proceso-de-la-gerencia-de-proyectos
+diferenciar-los-criterios-y-factores-de-éxito-de-un-proyecto

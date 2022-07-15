@@ -22,7 +22,7 @@ La gestión de proyectos en la ingeniería civil es fundamental para materializa
 
 -   Diferenciar los criterios y factores de éxito de un proyecto.
 
--   Identificar las estrategias en la gestión de proyectos.
+
 
 ## Definición de proyecto
 
@@ -32,7 +32,7 @@ Según [@turnerrodneyHandbookProjectBased2008], *un proyecto es un esfuerzo en e
 
 Por otra parte, [@bakkerhansManagementEngineeringProjects] presenta la definición dada por el Instituto de Gerencia de Proyectos (Project Management Institute - PMI) el cual define un proyecto como *un esfuerzo temporal que se realiza para crear un producto, servicio o resultado único*.
 
-El organismo profesional más grande para gerentes de proyectos del Reino Unido, la Asociación para la Gestión de Proyectos (Association for Project Management- APM), tiene la siguiente definición. *Los proyectos son esfuerzos únicos y transitorios emprendidos para lograr un resultado deseado*.
+El organismo profesional más grande paura gerentes de proyectos del Reino Unido, la Asociación para la Gestión de Proyectos (Association for Project Management- APM), tiene la siguiente definición. *Los proyectos son esfuerzos únicos y transitorios emprendidos para lograr un resultado deseado*.
 
 Proyectos en Entornos Controlados (término más comúnmente conocido como PRINCE2), define un proyecto como *una organización temporal que ha sido creada con el propósito de entregar uno o más productos comerciales de acuerdo con un caso comercial predefinido*.
 
@@ -41,3 +41,14 @@ Para este libro se tendrán en cuenta las definiciones de [@turnerrodneyHandbook
 Teniendo en cuenta las definiciones anteriores se puede decir que las actividades y el esfuerzo de construir una vivienda, comprar un vehículo, realizar una tesis de posgrado, escribir un libro, construir un celular, desarrollar un software, entre otras se consideran un proyecto. Para que la gestión de los mismos facilite la entrega de los mismos en un tiempo y costo especifico se utilizan diferentes metodologías, las cuales se abordarán en este libro, el cual se enfocará más que todo en proyectos de ingeniería civil.
 
 Para una mayor comprensión de los temas abordados, se recomienda tener en cuenta todos los términos asociados a la gestión de proyectos, incluyendo las abreviaturas y considerar que muchos términos tienen su origen en inglés.
+
+
+## Definir el flujo de proceso de la gerencia de proyectos
+
+
+
+## Diferenciar los criterios y factores de éxito de un proyecto
+
+
+
+
