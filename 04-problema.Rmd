@@ -1,2 +1,28 @@
 # Definición y valor del proyecto
 
+**Nota: este capítulo se encuentra en construcción.**
+
+## Objetivos de aprendizaje
+
+## Entregables y herramientas
+
+## Valor del negocio
+
+## Análisis de costo beneficio y RSI
+
+## Enfoque para comprender y definir una oportunidad o proyecto
+
+## Plan de gestión de los beneficios
+
+Un plan de gestión de beneficios se conoce como un documento en el cual se detalla el cómo y el cuándo se generan y se miden los beneficios que genera un proyecto.
+De acuerdo con la literatura en gestión de proyectos en el plan de gestión se identifican los siguientes componentes.
+
++ Beneficios esperados: 
++ Alineación estratégica:
++ Plazo:
++ Dueño de los beneficios:
++ Métricas:
++ Riesgos:
+
+
+## Entorno empresarial externo PESTLA
