@@ -42,6 +42,16 @@ Para una mayor comprensión de los temas abordados, se recomienda tener en cuent
 
 ## Definir el flujo de proceso de la gerencia de proyectos
 
+La gerencia de proyectos tiene en cuenta el enfoque definido para la gestión de un proyecto específico. En este apartado se presenta el flujo de proceso de la gerencia de proyectos para un enfoque tradicional y uno ágil. 
+El enfoque tradicional de acuerdo con el PMBOK se define como una serie de técnicas y herramientas que se puede ser aplicadas a una actividad que pretende entregar un producto final o un servicio.
+
+En la ingeniería civil este enfoque ha sido utilizado por muchas decadas para los diferentes tipos de proyectos, como por ejemplo construcción de edificaciones, construcción de vías, construcción y/o mantenimiento de presas, entre otros. 
+El enfoque tradicional se ha utilizado de la mano con una estructura de gobernanza vertical de arriba hacia abajo. Lo que indica que la dirección y la asignación de tareas son establecidas desde un nivel ejecutivo hasta llegar a la organización. De acuerdo con [@llarikantolaAdvancesHumanFactors2018] este estilo de liderazgo se basa en el mando, control y jerarquía. El enfoque en sí es orientado al plan desde el comienzo del proyecto y tiene poca flexibilidad para que sea modificado posteriormente. Este plan se realiza a su vez de forma centralizada dentro de la organización. Por lo que en un proyecto tradicional se asume que los eventos son predecibles y tanto las herramientas y técnicas a utilizar son claramente identificadas.
+
 ![Proceso de la gerencia de proyectos de proyectos tradicionales según el PMI. Fuente: [@llarikantolaAdvancesHumanFactors2018]](proceso.png){width="100%"}
+
+El enfoque moderno de gestión de proyectos como Lean y la gestión de groyectos Ágil según [@llarikantolaAdvancesHumanFactors2018], es ampliamente utilizada por los desarrolladores de software y es fuertemente iterativa e incremental, aquí los involucrados y los desarrolladores trabajan de forma muy cercana para entender el área de interés, determinar los requerimientos y priorizar las funcionalidades. 
+
+En el enfoque ágil se realizan muchas iteraciones planeadas de forma rápida y que se desarrollan en ciclos, lo que contribuye en la mejora continua del producto y facilita la posibilidad de realizar modificaciones de acuerdo con las solicitudes de cambio del usuario y de los involucrados durante el ciclo de vida del proyecto.
 
 ![Proceso del ciclo de vida de un proyecto ágil. Fuente: [@llarikantolaAdvancesHumanFactors2018]](procesoagil.png){width="100%"}

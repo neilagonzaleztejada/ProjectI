@@ -10,3 +10,8 @@ identificar-un-problema
 alto-nivel-del-proyecto-y-requisitos-de-aprobación
 definir-el-flujo-de-proceso-de-la-gerencia-de-proyectos
 diferenciar-los-criterios-y-factores-de-éxito-de-un-proyecto
+organización-del-equipo
+qué-es-el-acta-de-constitución-del-proyecto
+inicio-del-proyecto
+definición-y-valor-del-proyecto
+estimación-de-los-costos-y-programación
