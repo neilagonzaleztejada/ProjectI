@@ -22,8 +22,6 @@ La gestión de proyectos en la ingeniería civil es fundamental para materializa
 
 -   Diferenciar los criterios y factores de éxito de un proyecto.
 
-
-
 ## Definición de proyecto
 
 En la literatura existente se pueden encontrar múltiples definiciones de lo qué es un proyecto. En este apartado se presentan algunas de las más conocidas y que considero pueden ser de fácil comprensión.
@@ -42,13 +40,8 @@ Teniendo en cuenta las definiciones anteriores se puede decir que las actividade
 
 Para una mayor comprensión de los temas abordados, se recomienda tener en cuenta todos los términos asociados a la gestión de proyectos, incluyendo las abreviaturas y considerar que muchos términos tienen su origen en inglés.
 
-
 ## Definir el flujo de proceso de la gerencia de proyectos
 
+![Proceso de la gerencia de proyectos de proyectos tradicionales según el PMI. Fuente: [@llarikantolaAdvancesHumanFactors2018]](proceso.png){width="100%"}
 
-
-## Diferenciar los criterios y factores de éxito de un proyecto
-
-
-
-
+![Proceso del ciclo de vida de un proyecto ágil. Fuente: [@llarikantolaAdvancesHumanFactors2018]](procesoagil.png){width="100%"}
