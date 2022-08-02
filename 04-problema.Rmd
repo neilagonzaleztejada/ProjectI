@@ -17,12 +17,17 @@
 Un plan de gestión de beneficios se conoce como un documento en el cual se detalla el cómo y el cuándo se generan y se miden los beneficios que genera un proyecto.
 De acuerdo con la literatura en gestión de proyectos en el plan de gestión se identifican los siguientes componentes.
 
-+ Beneficios esperados: 
-+ Alineación estratégica:
-+ Plazo:
-+ Dueño de los beneficios:
-+ Métricas:
-+ Riesgos:
++ Beneficios esperados: se define como el valor del negocio que puede ser tangible e intangible y que se espera obtener del proyecto.
+
++ Alineación estratégica: es la forma cómo se alinean los beneficios con las estrategias comerciales de la organizaión.
+
++ Plazo: tiene que ver con cuándo se obtendrán los beneficios (a corto y largo plazo), normalmente se determina por fase del proyecto.
+
++ Dueño de los beneficios: es la persona o el grupo que monitorea, registra e informa sobre los beneficios.
+
++ Métricas: son todas esas mediciones directas e indirectas de los beneficios logrados.
+
++ Riesgos: en este aspecto del plan de gestión de beneficios se detallan esos riesgos asociados con el logro de los beneficios que se esperan obtener.
 
 
 ## Entorno empresarial externo PESTLA

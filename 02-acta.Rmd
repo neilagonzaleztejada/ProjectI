@@ -16,3 +16,6 @@
 ## ¿Qué es el acta de constitución del proyecto?
 
 El *acta de constitución del proyecto* (project chapter) es el instrumento utilizado en la gestión del proyecto. Este documento se elabora al inicio de la implementación de un proyecto y en el se evidencia desde el alcance del proyecto, la duración, costos, los interesados (stakeholders) con sus funciones y responsabilidades de dentro del ciclo de vida del proyecto. Así mismo, es importante que en este documento se defina la estructura de gobernabilidad y el equipo que será responsable del proyecto.
+
+
+es necesario definir, desde las responsabilidades de cada involucrado, así como también las distintas etapas de prediseño, diseño, planeación, construcción y cierre. Las cuales se pueden visibilizar de forma clara, con una adecuada gestión del proyecto, en la que también se tiene en cuenta la asignación de los recursos y el involucramiento del equipo del proyecto con la alta gerencia bajo una estructura de gobernabilidad definida que permita lograr entregar valor y los beneficios del proyecto.

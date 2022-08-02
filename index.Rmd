@@ -12,7 +12,10 @@ csl: apa.csl
 
 ## Introducción
 
-La gestión de proyectos en la ingeniería civil es fundamental para materializar las soluciones de problemas en las distintas dimensiones, social, económica, política y ambiental dentro del desarrollo de un territorio. En las que se requieren obras como edificaciones, puentes, vías, transporte, obras de protección de ríos y costas, hidroeléctricas, gestión del agua, etc. Para cada proyecto de ingeniería es necesario definir, desde las responsabilidades de cada involucrado, así como también las distintas etapas de prediseño, diseño, planeación, construcción y cierre. Las cuales se pueden visibilizar de forma clara, con una adecuada gestión del proyecto, en la que también se tiene en cuenta la asignación de los recursos y el involucramiento del equipo del proyecto con la alta gerencia bajo una estructura de gobernabilidad definida que permita lograr entregar valor y los beneficios del proyecto.
+La gestión de proyectos en la ingeniería civil es fundamental para materializar las soluciones de problemas o necesidades identificadas tanto a nivel público como privado en los distintos aspectos social, económio, político y ambiental, los cuales inciden en la calidad de vida de las personas, en la entrega de productos y servicios, así como también en el desarrollo de un territorio.
+
+Historicamente y según la literatura, la gestión de proyectos de ingeniería utiliza herramientas y técnicas que se soportan en buenas prácticas y se dan de acuerdo a estandares internacionales, con el fin de que se pueda asegurar el logro  en cualquier tipo de proyecto, como edificaciones, puentes, vías, transporte, obras de protección de ríos y costas, hidroeléctricas, consultorías de diseño y planeación, etc.  Con la materialización de estos proyectos se asegura el logro de los objetivos estratégicos (producto o servicio) del proyecto en un tiempo determinado.
+
 
 ## Objetivos de aprendizaje
 
